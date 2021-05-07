@@ -6,4 +6,4 @@ users will have the string "Unknown face" applied.
 
 The training data can be interchanged with new faces and have more images added as needed, the program will adapt and use the new names as labels.
 
-Since the program isn't computationally demanding it should work in most/all IDEs and on most systems.
+Since the program isn't computationally demanding it should work in most/all IDEs and code editors and on most systems.
